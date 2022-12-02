@@ -1,5 +1,5 @@
-All Available Fonts
-===================
+gg sans
+--------------------
 [gg sans Bold](/gg_sans_Bold.ttf)
 
 [gg sans Bold Italic](/gg_sans_Bold_Italic.ttf)
